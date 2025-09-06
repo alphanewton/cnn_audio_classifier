@@ -1,0 +1,10 @@
+pandas
+torchaudio
+torch
+tqdm
+numpy
+tensorboard
+fastapi
+librosa #changing sample rate in audio file
+pydantic
+soundfile
